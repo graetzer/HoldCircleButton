@@ -10,6 +10,6 @@ least a certain length of time, and showing an indicator of how long he must hol
 
 ## How to integrate
 
-Just copy [HoldCircleButton.java](blob/master/src/main/java/org/graetzer/ui/HoldCircleButton.java)
-and [attrs.xml](blob/master/src/main/res/values/attrs.xml) to their respecitve directories in your project
+Just copy [HoldCircleButton.java](src/main/java/org/graetzer/ui/HoldCircleButton.java)
+and [attrs.xml](src/main/res/values/attrs.xml) to their respecitve directories in your project
 (You might need to create ```java/org/graetzer/ui/``` and ```res/values```)
